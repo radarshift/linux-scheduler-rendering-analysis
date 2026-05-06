@@ -1,0 +1,10 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/arieldanon/Desktop/Augie/classwork/junior/Spring 26/Operating Systems/final/renderer/build/cmake_install.cmake",
+		"/Users/arieldanon/Desktop/Augie/classwork/junior/Spring 26/Operating Systems/final/renderer/build/dependencies/glfw/cmake_install.cmake",
+		"/Users/arieldanon/Desktop/Augie/classwork/junior/Spring 26/Operating Systems/final/renderer/build/dependencies/glfw/src/cmake_install.cmake",
+		"/Users/arieldanon/Desktop/Augie/classwork/junior/Spring 26/Operating Systems/final/renderer/build/dependencies/glfw/docs/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
