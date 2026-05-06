@@ -1,0 +1,52 @@
+
+# --- Compiled Objects & Binaries ---
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.app
+
+# --- Static Libraries ---
+*.a
+*.lib
+
+# --- Build Directories ---
+# Common names for build output folders
+[Bb]uild/
+bin/
+obj/
+out/
+cmake-build-*/
+
+# --- CMake Artifacts ---
+CMakeCache.txt
+CMakeFiles/
+CMakeScripts/
+cmake_install.cmake
+install_manifest.txt
+Makefile
+
+# --- IDE Specifics ---
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.db
+*.opendb
+
+# JetBrains (CLion)
+.idea/
+
+# VS Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+# --- Others ---
+*.log
+*.swp
+.DS_Store
