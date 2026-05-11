@@ -16,8 +16,3 @@ add_executable(rndr src/main.cpp)
 
 # links
 target_link_libraries(rndr PRIVATE glfw glad)
-
-if(UNIX AND NOT APPLE)
-    find_package(OpenGL REQUIRED)
-    target_link_libraries(rndr PRIVATE OpenGL::GL)
-endif()
